@@ -1,25 +1,107 @@
-<h1 align="center">Hi 👋, I'm Mel</h1>
-<h3 align="center">A passionate fullstack developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Mel Carlo Iguis</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melsmellow&label=Profile%20views&color=0e75b6&style=flat" alt="melsmellow" /> </p>
+<h3 align="center">
+Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js • AWS
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melsmellow" alt="melsmellow" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Samsung R&D Institute Philippines**
-
-- 📫 How to reach me **mel**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mel-carlo-iguis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mel-carlo-iguis" height="30" width="40" /></a>
-<a href="https://fb.com/melcarlo.iguis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melcarlo.iguis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/melsmellow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="melsmellow" height="30" width="40" /></a>
+<p align="center">
+  Building modern, scalable, and user-focused web applications from the Philippines 🇵🇭
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melsmellow&show_icons=true&locale=en&layout=compact" alt="melsmellow" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melsmellow&label=Profile%20Views&color=0e75b6&style=flat" alt="melsmellow profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melsmellow&show_icons=true&locale=en" alt="melsmellow" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=melsmellow&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melsmellow&" alt="melsmellow" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **Frontend Developer with DevOps experience at Samsung R&D Institute Philippines**
+- 🚀 Experienced in building applications using **React, Next.js, TypeScript, and Node.js**
+- ⚙️ Comfortable working across the stack—from **Frontend and Backend APIs to CI/CD and AWS infrastructure**
+- 🌱 Currently strengthening my skills in **Full-Stack Architecture, System Design, and Agile Development**
+- 🤝 Open to opportunities involving **Full-Stack JavaScript/TypeScript development**
+- 📫 Reach me through **[LinkedIn](https://linkedin.com/in/mel-carlo-iguis)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+</p>
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,git,github" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/mel-carlo-iguis" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://fb.com/melcarlo.iguis" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/c/melsmellow" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=melsmellow&show_icons=true&locale=en&hide_border=true" 
+    alt="Mel's GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=melsmellow&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=melsmellow&show_icons=true&locale=en&layout=compact&hide_border=true" 
+    alt="Most Used Languages" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building things, breaking things, and learning how to build them better." 🚀</i>
+</p>
