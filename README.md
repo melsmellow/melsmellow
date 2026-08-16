@@ -64,42 +64,6 @@ Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js • 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=melsmellow&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=melsmellow&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melsmellow&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=melsmellow&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
